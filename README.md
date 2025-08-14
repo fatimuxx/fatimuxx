@@ -5,7 +5,7 @@
 I am currently a student at Arizona State University Online studying Full-Stack Web Development. I have also completed the Google Coursera Cybersecurity course! My love of learning and being the best version of myself is what fuels my dedication every day.
 
 ## Objective
-[Provide Objective - Remove this afterwards]]
+
 
 My journey in the field of computer science has led me to grow a passion for Cybersecurity, and I am eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
 
