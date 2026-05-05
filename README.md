@@ -6,9 +6,6 @@ I am currently a student at Arizona State University Online studying Full-Stack 
 
 ## Objective
 
-
-My journey in the field of computer science has led me to grow a passion for Cybersecurity, and I am eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
-
 ## Skills
 
 
