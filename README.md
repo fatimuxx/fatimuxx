@@ -1,41 +1,23 @@
-# Hello, I'm Fatima
-<a href="https://linkedin.com"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-
-
-I am currently a student at Arizona State University Online studying Full-Stack Web Development. I have also completed the Google Coursera Cybersecurity course! My love of learning and being the best version of myself is what fuels my dedication every day.
-
-## Objective
-
-## Skills
+# FATIMA RODRIGUEZ
 
 
 
-## Tools
-]
 
-TO BE DATED......................
-### Network
-<div>
-    <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Suricata-EF3B2D?&style=for-the-badge&logo=Suricata&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Zeek-777BB4?&style=for-the-badge&logo=Zeek&logoColor=white" />
-</div>
-TO BE DATED...........................
-### Endpoint
-<div>
-    <img src="https://img.shields.io/badge/-Microsoft_Defender_for_Endpoint-00A4EF?&style=for-the-badge&logo=Microsoft&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Velociraptor-4B275F?&style=for-the-badge&logo=Velociraptor&logoColor=white" />
-</div>
+## Introduction
+Hello Everyone! I am Fatima Rodriguez, I am a San Diego Native currently going to Arizona State Online University for Full-Stack Web Development. I decided to take on this path because it is the perfect mix of creativity and problem solving. I always thought I had to choose one or the other but I can really have both in a career that I can enjoy in the long run. From sketching to developing, I have to pursure a full-stack role after graduation.
 
-### SIEM
-<div>
-    <img src="https://img.shields.io/badge/-Microsoft_Sentinel-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Elastic-005571?&style=for-the-badge&logo=Elastic&logoColor=white" />
-</div>
 
-## Certifications
+## Languages
+[![My Skills](https://skillicons.dev/icons?i=js,html,css)](https://skillicons.dev)
+
 
 ## Projects
+
+// instead of these projects there will be links to the 3 websites I chose
 - Detection Lab
 - SOC Automation Project
+
+##Contact Info.
+
+<a href="https://linkedin.com"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+
