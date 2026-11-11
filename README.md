@@ -1,4 +1,4 @@
-(https://github.com/fatimuxx/fatimuxx/blob/main/logogithub.png)
+![LOGO](https://github.com/fatimuxx/fatimuxx/blob/main/logogithub.png)
 
 
 
