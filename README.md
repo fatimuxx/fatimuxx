@@ -12,7 +12,9 @@ Hello Everyone! I am Fatima Rodriguez, I am a San Diego Native currently going t
 
 
 ## Projects
-[whackamole](https://fatimuxx.github.io/whack-a-mole-waterquest-/)
+[Charity Water: Whack-a-Mole Game](https://fatimuxx.github.io/whack-a-mole-waterquest-/)
+[Intel: Sustainability Through the Ages](https://fatimuxx.github.io/intellocalization/)
+[L’Oreal ChatBot](https://fatimuxx.github.io/loreal-routine-builder/)
 
 ## Contact Info.
 
