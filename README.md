@@ -15,6 +15,7 @@ Hello Everyone! I am Fatima Rodriguez, I am a San Diego Native currently going t
 [Charity Water: Whack-a-Mole Game:](https://fatimuxx.github.io/whack-a-mole-waterquest-/)
 
 [Intel: Sustainability Through the Ages:](https://fatimuxx.github.io/intellocalization/)
+Project created at Global Accelerator , an Arizona State University program that provides hands-on skills. The purpose of project is to showcase Intel’s commitment to sustainability and raise awareness of Intel’s commitment to protecting the environment. 
 
 [L’Oreal ChatBot:](https://fatimuxx.github.io/loreal-routine-builder/)
 
