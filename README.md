@@ -11,15 +11,15 @@ Hello Everyone! I am Fatima Rodriguez, I am a San Diego Native currently going t
 [![My Skills](https://skillicons.dev/icons?i=js,html,css)](https://skillicons.dev)
 
 
-## Projects
+## Featured Projects
 [Charity Water: Whack-a-Mole Game:](https://fatimuxx.github.io/whack-a-mole-waterquest-/)
-This is a game I developed inspired by the classic Whack-a-Mole game! This purpose of this was to develop a web game for Charity Water, an organization that provides water to those in need, in order to raise awareness. You can check them out [here](https://www.charitywater.org/?utm_source=adwords&utm_medium=paid-cpc&utm_campaign=bof-spring-usrow&utm_term=GA_BOFU_Brand_PD_SRC_BRN_CVR_GEN_USA_MTD_V1&utm_content=branded&gad_source=1&gad_campaignid=23574816131&gbraid=0AAAAADNj5D-JiQHLf_3F6Zyi4Kr8Z-Ov_&gclid=Cj0KCQiA5NXXBhDEARIsABAJhdIyTR7d8mrs8-aAJH4r_jY4uxpCbxd5Aq7fcr9IXz_m__5q4oF5xOMaAsFqEALw_wcB) for more details!
+I developed this web game for Charity Water, an organization that provides water to those in need. The purpose of the game is to raise awareness of the organization. Inspired by the classic Whack-a-Mole game. The main challenge was writing the JavaScript to make the game functional. Learn more about Charity Water [here](https://www.charitywater.org/?utm_source=adwords&utm_medium=paid-cpc&utm_campaign=bof-spring-usrow&utm_term=GA_BOFU_Brand_PD_SRC_BRN_CVR_GEN_USA_MTD_V1&utm_content=branded&gad_source=1&gad_campaignid=23574816131&gbraid=0AAAAADNj5D-JiQHLf_3F6Zyi4Kr8Z-Ov_&gclid=Cj0KCQiA5NXXBhDEARIsABAJhdIyTR7d8mrs8-aAJH4r_jY4uxpCbxd5Aq7fcr9IXz_m__5q4oF5xOMaAsFqEALw_wcB) for more details!
 
 [Intel: Sustainability Through the Ages:](https://fatimuxx.github.io/intellocalization/)
-This is a project I created at Global Accelerator , an Arizona State University program that provides hands-on skills. The purpose of project is to showcase Intel’s commitment to sustainability and raise awareness of Intel’s commitment to protecting the environment. 
+I made this project at Global Accelerator, an Arizona State University program that provides hands-on skills.The purpose is to raise awareness of Intel’s commitment to sustainability and environmental protection. This project references my instructor’s work, and the goal was to create a comparable result. The most crucial steps were organizing the files properly and applying correct code semantics. Completed on time and functional.
 
 [L’Oreal ChatBot:](https://fatimuxx.github.io/loreal-routine-builder/)
-This is an API powered L’Oreal chatbot that helps build a routine or advise on L’Oreal products giving clients a more personalized experience. Very convenient for those who really enjoy L'Oreal's products and would like to have a more consistent routine!
+This is an API-powered chatbot that helps users build a routine and get advice on L’Oréal products, creating a more personalized experience. It is convenient for people who enjoy L’Oréal products and want a more consistent routine. Similar to other chatbots, but it focuses only on L’Oréal products rather than serving as a general-purpose AI assistant. The most crucial part was keeping the API protected.
 
 
 ## Contact Info.
