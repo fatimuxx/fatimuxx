@@ -22,10 +22,7 @@ I made this project at Global Accelerator, an Arizona State University program t
 This is an API-powered chatbot that helps users build a routine and get advice on L’Oréal products, creating a more personalized experience. It is convenient for people who enjoy L’Oréal products and want a more consistent routine. Similar to other chatbots, but it focuses only on L’Oréal products rather than serving as a general-purpose AI assistant. The most crucial part was keeping the API protected.
 
 ## Skills So Far
-Through out my time at Arizona State I've learned a great deal of coding such as HTML, CSS and JavaScript. I also learned User Research and User Interface techniques that enhance my development process, from sketching , wireframing and finally prototyping I have acquired the essential skills of developing a website. However I am still learning but now it is just a matter of practice and implementing the new things I have learned to older projects, just as the ones above. Project management in a skill I also learned and was very valuable to me and became the confirmation that Full-Stack Web Development was what I wanted to do.
-
-
-## Contact Info.
+Through out my time at Arizona State I've learned a great deal of coding such as HTML, CSS and JavaScript. I also learned User Research and User Interface techniques that enhance my development process, from sketching , wireframing , prototyping and how the user interacts with the webpage , I have acquired the essential skills of developing a website. However I am still learning , but now it is just a matter of practice and implementing the new things I have learned to older projects and to newer ones. Project management became a favorite at my time at ASU as I learned the ins and outs of managing a project and working as a team.
 
 <a href="https://linkedin.com"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
