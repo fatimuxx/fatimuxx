@@ -21,6 +21,9 @@ I made this project at Global Accelerator, an Arizona State University program t
 [L’Oreal ChatBot:](https://fatimuxx.github.io/loreal-routine-builder/)
 This is an API-powered chatbot that helps users build a routine and get advice on L’Oréal products, creating a more personalized experience. It is convenient for people who enjoy L’Oréal products and want a more consistent routine. Similar to other chatbots, but it focuses only on L’Oréal products rather than serving as a general-purpose AI assistant. The most crucial part was keeping the API protected.
 
+## Skills So Far
+Through out my time at Arizona State I've learned a great deal of coding such as HTML, CSS and JavaScript. I also learned User Research and User Interface techniques that enhance my development process, from sketching , wireframing and finally prototyping I have acquired the essential skills of developing a website. However I am still learning but now it is just a matter of practice and implementing the new things I have learned to older projects, just as the ones above. Project management in a skill I also learned and was very valuable to me and became the confirmation that Full-Stack Web Development was what I wanted to do.
+
 
 ## Contact Info.
 
