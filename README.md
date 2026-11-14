@@ -24,5 +24,6 @@ This is an API-powered chatbot that helps users build a routine and get advice o
 ## Skills So Far
 Through out my time at Arizona State I've learned a great deal of coding such as HTML, CSS and JavaScript. I also learned User Research and User Interface techniques that enhance my development process, from sketching , wireframing , prototyping and how the user interacts with the webpage , I have acquired the essential skills of developing a website. However I am still learning , but now it is just a matter of practice and implementing the new things I have learned to older projects and to newer ones. Project management became a favorite at my time at ASU as I learned the ins and outs of managing a project and working as a team.
 
+## Contact Me
 <a href="https://linkedin.com"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
